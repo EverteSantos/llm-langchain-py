@@ -5,10 +5,15 @@ Este projeto consiste em uma aplicação de tradução de textos baseada em Mode
 A aplicação foi desenvolvida com foco em simplicidade e integração moderna de IA, utilizando uma API backend construída com FastAPI e orquestração de prompts via LangChain.
 
 🚀 Tecnologias utilizadas
+
 🐍 Python
+
 ⚡ FastAPI
+
 🔗 LangChain
+
 🤖 Google Gemini API
+
 
 💡 Funcionalidades
 Tradução automática de textos digitados pelo usuário
